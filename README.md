@@ -38,7 +38,7 @@ A complete multi-tenant SaaS platform for AI-powered homework assistance. Built 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-homework-helper.git
+git clone https://github.com/ahmedsaadawi13/ai-homework-helper.git
 cd ai-homework-helper
 ```
 
@@ -487,7 +487,7 @@ This project is licensed under the MIT License.
 
 For issues and questions:
 - Open an issue on GitHub
-- Email: support@aihomework.com
+- Email: ahmed.sha3ban13@gmail.com
 
 ## Credits
 
